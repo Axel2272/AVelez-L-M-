@@ -1,0 +1,14 @@
+C:\Users\arodriguez2272\Documents\axel programacion estructurada\laboratorio C++\lab c#\helloworld.cs\bin\Debug\net7.0\helloworld.cs.exe
+C:\Users\arodriguez2272\Documents\axel programacion estructurada\laboratorio C++\lab c#\helloworld.cs\bin\Debug\net7.0\helloworld.cs.deps.json
+C:\Users\arodriguez2272\Documents\axel programacion estructurada\laboratorio C++\lab c#\helloworld.cs\bin\Debug\net7.0\helloworld.cs.runtimeconfig.json
+C:\Users\arodriguez2272\Documents\axel programacion estructurada\laboratorio C++\lab c#\helloworld.cs\bin\Debug\net7.0\helloworld.cs.dll
+C:\Users\arodriguez2272\Documents\axel programacion estructurada\laboratorio C++\lab c#\helloworld.cs\bin\Debug\net7.0\helloworld.cs.pdb
+C:\Users\arodriguez2272\Documents\axel programacion estructurada\laboratorio C++\lab c#\helloworld.cs\obj\Debug\net7.0\helloworld.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arodriguez2272\Documents\axel programacion estructurada\laboratorio C++\lab c#\helloworld.cs\obj\Debug\net7.0\helloworld.cs.AssemblyInfoInputs.cache
+C:\Users\arodriguez2272\Documents\axel programacion estructurada\laboratorio C++\lab c#\helloworld.cs\obj\Debug\net7.0\helloworld.cs.AssemblyInfo.cs
+C:\Users\arodriguez2272\Documents\axel programacion estructurada\laboratorio C++\lab c#\helloworld.cs\obj\Debug\net7.0\helloworld.cs.csproj.CoreCompileInputs.cache
+C:\Users\arodriguez2272\Documents\axel programacion estructurada\laboratorio C++\lab c#\helloworld.cs\obj\Debug\net7.0\helloworld.cs.dll
+C:\Users\arodriguez2272\Documents\axel programacion estructurada\laboratorio C++\lab c#\helloworld.cs\obj\Debug\net7.0\refint\helloworld.cs.dll
+C:\Users\arodriguez2272\Documents\axel programacion estructurada\laboratorio C++\lab c#\helloworld.cs\obj\Debug\net7.0\helloworld.cs.pdb
+C:\Users\arodriguez2272\Documents\axel programacion estructurada\laboratorio C++\lab c#\helloworld.cs\obj\Debug\net7.0\helloworld.cs.genruntimeconfig.cache
+C:\Users\arodriguez2272\Documents\axel programacion estructurada\laboratorio C++\lab c#\helloworld.cs\obj\Debug\net7.0\ref\helloworld.cs.dll
